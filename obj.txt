@@ -1,0 +1,3 @@
+introspector.Person
+id=120
+name=¹þ¹þ
